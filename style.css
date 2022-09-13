@@ -8,24 +8,43 @@ h1 {
 }
 p{
     font-size: 20px;
+    text-align: center;
 }
 h1{
     background-color: black;
     width: 100%;
-    height: 70px;
+    height: 76px;
     text-align: center;
 }
 
 #logo{
-        max-width: 74px;
+        max-width: 79px;
         position: absolute;
 }
 
 #foto {
     position: absolute;
     margin-left: 70%;
-    margin-top: -6%;
+    margin-top: -7%;
 }
 #foto {
     max-width: 200px;
 }
+#face {
+  max-width: 30px;
+  margin-left: 86%;
+  margin-top: -7%;
+  position: absolute;
+}
+#insta {
+    max-width: 40px;
+    margin-left: 90%;
+    margin-top: -7%;
+    position: absolute;
+}
+#mapa {
+    max-width: 40px;
+    margin-left: 95%;
+    position: absolute;
+    margin-top: -7%;
+  }
